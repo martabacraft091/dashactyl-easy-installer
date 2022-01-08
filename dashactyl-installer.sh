@@ -69,7 +69,7 @@ file_install() {
     echo "-------------------------------------------------------"
     echo "Starting File install."
     echo "-------------------------------------------------------"
-    git clone https://github.com/real2two/dashactyl.git
+    git https://github.com/Votion-Development/Dashactyl-0.4.git
     cd dashactyl
     sudo npm install
     echo "-------------------------------------------------------"
