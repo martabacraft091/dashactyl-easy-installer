@@ -1,4 +1,4 @@
 # dashactyl-installer
 Unofficial installation script for Dashactyl
 
-`bash <(curl -s https://raw.githubusercontent.com/Wei5hang/dashactyl-easy-installer/main/installer.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/martabakcraft091/dashactyl-easy-installer/main/installer.sh)`
